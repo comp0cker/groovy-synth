@@ -1,2 +1,2 @@
 # groovy-synth
-An easy to use synthesizer
+Only works offline. Uh.
